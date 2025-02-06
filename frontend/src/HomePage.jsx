@@ -17,6 +17,7 @@ const App = () => {
       </header>
 
       <section className="hero-section">
+        
         <div className="hero-content">
           <h1>Stylish. Comfortable. Affordable.</h1>
           <p>Find the latest trends in fashion at ClothingBrand.</p>
