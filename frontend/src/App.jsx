@@ -10,4 +10,15 @@ const App = () => {
   )
 }
 
+
+import Contact from "./contact.jsx";
+
+function App  () {
+  return (
+    <div>
+      <Contact/>
+    </div>
+  );
+}
+
 export default App

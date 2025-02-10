@@ -12,12 +12,14 @@ const App = () => {
             <li><a href="#shop">Shop</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
+            <li><a href="#Signup">Sign up</a></li>
+            <li><a href="#Login">Login</a></li>
           </ul>
         </nav>
       </header>
 
       <section className="hero-section">
-        
+
         <div className="hero-content">
           <h1>Stylish. Comfortable. Affordable.</h1>
           <p>Find the latest trends in fashion at ClothingBrand.</p>
@@ -26,22 +28,27 @@ const App = () => {
       </section>
 
       <section id="shop" className="shop-section">
-        <h2>Featured Products</h2>
+        <h2>New Arrivals</h2>
         <div className="product-grid">
           <div className="product-card">
-            <img src="https://via.placeholder.com/300" alt="Product 1" />
-            <h3>Product 1</h3>
-            <p>$49.99</p>
+            <img src="\1.1.png" alt="Product 1" />
+            <h3>BL001</h3>
+            <p>Rs4100.00</p>
           </div>
           <div className="product-card">
-            <img src="https://via.placeholder.com/300" alt="Product 2" />
-            <h3>Product 2</h3>
-            <p>$59.99</p>
+            <img src="/2.1.png" alt="Product 2" />
+            <h3>BR002</h3>
+            <p>Rs4100.00</p>
           </div>
           <div className="product-card">
-            <img src="https://via.placeholder.com/300" alt="Product 3" />
-            <h3>Product 3</h3>
-            <p>$69.99</p>
+            <img src="/3.1png.png" alt="Product 3" />
+            <h3>BL003</h3>
+            <p>Rs4100.00</p>
+          </div>
+          <div className="product-card">
+            <img src="\1.1.png" alt="Product 1" />
+            <h3>BL001</h3>
+            <p>Rs4100.00</p>
           </div>
         </div>
       </section>
