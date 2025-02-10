@@ -11,14 +11,14 @@ const App = () => {
 }
 
 
-import Contact from "./contact.jsx";
+// import Contact from "./contact.jsx";
 
-function App  () {
-  return (
-    <div>
-      <Contact/>
-    </div>
-  );
-}
+// function App  () {
+//   return (
+//     <div>
+//       <Contact/>
+//     </div>
+//   );
+// }
 
 export default App
